@@ -1,0 +1,22 @@
+﻿  2DCanvasBenjaminSimonW1634216.cpp
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(164): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(168): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(221): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(225): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(230): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(260): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(269): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(273): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(282): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(287): warning C4551: function call missing argument list
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(291): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(295): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(361): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(365): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(436): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(440): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(566): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(1119): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\cw\2d_drawing\3dexample1\2dcanvasbenjaminsimonw1634216.cpp(1217): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  3DExample1.vcxproj -> E:\Year 2\3D Graphics\CW\2D_Drawing\3DExample1\x64\Debug\3DExample1.exe
